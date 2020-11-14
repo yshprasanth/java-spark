@@ -1,1 +1,1 @@
-# java-spark
+# Java Spark Application
